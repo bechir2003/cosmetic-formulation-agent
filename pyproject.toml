@@ -1,0 +1,16 @@
+[project]
+name = "cosmetic-formulation-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "aiohttp>=3.13.3",
+    "openai>=2.15.0",
+    "pydantic>=2.12.5",
+    "python-dotenv>=1.2.1",
+    "streamlit>=1.53.1",
+    "termcolor>=3.3.0",
+    "typing-extensions>=4.15.0",
+    "watchdog>=6.0.0",
+]
