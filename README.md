@@ -130,7 +130,7 @@ _(or `uv run main.py`)_
 - **Key Ingredients:** Bakuchiol (1%), Squalane (5%), Oat Kernel Extract.
 - **Justification:** "Bakuchiol selected as a non-irritating retinol alternative referenced in [Study X]; Squalane chosen for biomimetic barrier support."
 - **Risk:** "Bakuchiol can degrade in UV; formulation intended for night use and opaque packaging recommended."
-
+- **youtube link:** https://youtu.be/_dL95Wyrmq8
 ---
 
 ## 🤝 Contributing
